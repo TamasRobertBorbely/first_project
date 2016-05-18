@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Third file
 asdsfd
+=======
+Third file
+This file is modified on the server.
+asdfdsa
+>>>>>>> f10
